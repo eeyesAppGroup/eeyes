@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/card_view_item"
+    android:layout_marginTop="8dp">
+
+    <LinearLayout
+        android:id="@+id/recycler_view_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:textSize="@dimen/text_size_title"
+            android:textColor="@color/primary_text"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:text="RoboMaster2015|机器人大赛第三场"
+            />
+        <TextView
+            android:id="@+id/whereTextView"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="活动地点：思源活动中心"/>
+        <TextView
+            android:id="@+id/timeTextView"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="活动时间：2015年5月24日"/>
+        <TextView
+            android:id="@+id/typeTextView"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="活动类别：主题活动"/>
+        <TextView
+            android:id="@+id/cardTextView"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="检票（刷卡）：是"/>
+
+        <TextView
+            android:id="@+id/contentTextView"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary_text"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="全国首档激战类机器人竞赛 炫丽灯光，震撼音乐，烟雾喷火，互动游戏 现场让你high翻天。 享受顶尖科技盛宴， 见证工程师的青春与热血。 还等什么 赶紧来吧。"/>
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

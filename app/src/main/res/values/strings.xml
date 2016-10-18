@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">掌上e瞳</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--常用-->
+    <string name="positive">确定</string>
+    <string name="negative">取消</string>
+    <string name="got_it">知道了</string>
+    <string name="loading">加载中</string>
+    <string name="point">提示</string>
+
+    <string name="welcome_to_zhihudaily">欢迎来到知乎小报</string>
+    <string name="action_copy_right">版权信息</string>
+    <string name="title_activity_read">阅读</string>
+    <string name="likes">赞</string>
+    <string name="comments">评论</string>
+    <string name="title_activity_comments">评论</string>
+    <string name="title_activity_comment">评论</string>
+    <string name="wrong_process">发生了一些错误!</string>
+    <string name="no_network_connected">当前没有网络连接…</string>
+    <string name="go_to_set">去设置</string>
+
+    <!--navigation view menu-->
+    <string name="latest_post">知乎日报</string>
+    <string name="hot_post">热门消息</string>
+    <string name="theme_post">主题日报</string>
+    <string name="change_theme">切换主题</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <!--navigation view menu end-->
+
+    <string name="other">其他</string>
+    <string name="share_extra">" 分享自 知乎小报"</string>
+    <string name="share_to">分享至</string>
+
+    <!--activity关于-->
+    <string name="version">版本:V2.5</string>
+    <string name="rate">为知乎小报应用评分</string>
+    <string name="feedback">反馈Bug / 建议</string>
+    <string name="donate">捐赠开发者</string>
+    <string name="donate_content">支付宝账号将会复制到粘贴板，进入支付宝可直接粘贴完成捐赠，感谢您的支持！</string>
+    <string name="donate_account">18627441225</string>
+    <string name="sendto">mailto:marktonymengyi@gmail.com</string>
+    <string name="mail_topic">知乎小报使用反馈与建议</string>
+    <string name="device_model">设备型号:</string>
+    <string name="sdk_version">SDK版本:</string>
+    <string name="no_mail_app">没有找到邮件类App</string>
+    <string name="no_app_store_found">没有市场类App</string>
+    <string name="author">作者</string>
+    <string name="author_name">黎赵太郎</string>
+    <string name="author_description">湖南,长沙</string>
+    <string name="follow_me_on_github">在GitHub关注我</string>
+    <string name="follow_me_on_zhihu">在知乎关注我</string>
+    <string name="support">支持</string>
+    <string name="feedback_description">帮助我改进知乎小报App</string>
+    <string name="coffee">请我喝杯咖啡</string>
+    <string name="coffee_description">如果你认同我的工作，可以请我喝杯咖啡表示支持</string>
+    <string name="github_url">https://github.com/marktony</string>
+    <string name="zhihu_url">https://www.zhihu.com/people/kirin-momo</string>
+    <string name="rate_description">如果你喜欢知乎小报App,请在商店中给它一个好评吧</string>
+    <!--activity关于 end-->
+
+    <string name="copy_right">
+        本App所使用的所有API均由 知乎（Zhihu.Inc） 提供，
+        Github用户izzyleung采取非正常手段获取。
+        获取与共享之行为或有侵犯知乎权益的嫌疑。
+        若被告知需停止共享与使用，izzyleung会及时删除页面与整个项目。
+        请您暸解相关情况，并遵守知乎协议。\n
+    </string>
+
+    <!--settings-->
+    <string name="no_splash">禁止加载启动页</string>
+    <string name="no_splash_description">直接进入主界面</string>
+    <string name="no_picture_mode">无图模式</string>
+    <string name="no_picture_mode_description">阅读时不再加载图片</string>
+    <!--setting-->
+
+    <string name="guokr_handpick">果壳精选</string>
+    <string name="title_activity_guokr_read">果壳精选</string>
+    <string name="action_open_in_browser">在浏览器中打开</string>
+
+    <string name="register">注册</string>
+    <string name="name">姓名</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="age">年龄</string>
+    <string name="login">登陆</string>
+    <string name="register_here">点击这里注册</string>
+
+
+    <string name="eeyes_tickets_booking">e瞳订票</string>
+
+    <string name="myName">e瞳</string>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_homepage"
+            android:title="@string/eeyes_tickets_booking"/>
+        <item
+            android:id="@+id/nav_theme_post"
+            android:icon="@drawable/ic_menu_list"
+            android:title="@string/theme_post"/>
+        <item
+            android:id="@+id/nav_hot_spot"
+            android:icon="@drawable/ic_menu_hot"
+            android:title="@string/hot_post"/>
+        <item
+            android:id="@+id/nav_guokr"
+            android:icon="@drawable/ic_guokr"
+            android:title="@string/guokr_handpick"/>
+    </group>
+
+</menu>
